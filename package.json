@@ -2,12 +2,12 @@
   "name": "tishadow",
   "version": "0.6.2",
   "dependencies": {
-    "express": "2.5.2",
+    "express": "4.22.0",
     "jade": ">= 0.0.1",
     "socket.io": ">= 0.9.6",
     "socket.io-client": ">=0.9.11",
     "path": ">=0.4.9",
-    "xml2js": "0.1.x",
+    "xml2js": "0.6.x",
     "zipstream": ">=0.2.1",
     "colors": ">=0.6.0-1",
     "commander": "1.0.x",
@@ -15,7 +15,7 @@
     "jshint": "0.9.1",
     "restler": "~2.0.1",
     "wrench":"1.4.x",
-    "underscore":"1.4.x"
+    "underscore":"1.13.x"
   },
   "devDependencies": {},
   "optionalDependencies": {},
